@@ -8,7 +8,6 @@ _____                _ __  __
 ```
 
 ```
-Art by Normand Veilleux
                                   _______
                            _,,ad8888888888bba,_
                         ,ad88888I888888888888888ba,
@@ -66,4 +65,4 @@ d888888888888888,                                ,ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 8888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888888888888
 
 ```
-
+- (Art by Normand Veilleux)[http://www.afn.org/~afn39695/veilleux.htm]
