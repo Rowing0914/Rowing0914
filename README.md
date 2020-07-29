@@ -1,11 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rowing0914&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowing0914" />
-</a>
-
-<br>
 ```
                     _____                _ __  __      
                     |  __ \              | |  \/  |     
@@ -73,3 +65,11 @@ d888888888888888,                                ,ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 
 ```
 - [Art by Normand Veilleux](http://www.afn.org/~afn39695/veilleux.htm)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rowing0914&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowing0914" />
+</a>
